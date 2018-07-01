@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+  color: brown;
+}
+.intro{
+  background-color: brown;
+  color: black;
+  text-align: center;
+}
+.sidebar{
+  float: right;
+}
