@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+  color:brown;
+}
+.nav{
+  float:right;
+}
+.images{
+  background-color: brown;
+  color: black;
+  text-align: center;
+}
