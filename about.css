@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+  color: brown;
+}
+h1{
+  background-color: brown;
+  color:black;
+  text-align: center;
+}
+ul{
+  float:right;
+}
+.about{
+  background-color: black;
+  color: brown;
+  text-align: center;
+}
+.list{
+  float: right;
+  background-color: brown;
+  color:black;
+}
+img{
+  float:center;
+}
